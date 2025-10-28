@@ -12,15 +12,16 @@
 
 ### 🛠️ Tech Stack
 
-**Game Development**
-- Unity • C# • Mobile Game Design
+**Game Development**  
+![Unity](https://img.shields.io/badge/-Unity-000?logo=unity)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp)
 
-**Engineering & Coding**
-- Python • MATLAB • STM32 • Arduino
+**Engineering**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino)
 
 ---
 
 ### 🌎 Connect With Me
 📩 Email: **mehmeteray2004@hotmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/mehmet-eray-durmaz-95904a1a1/  
- 
+🔗 LinkedIn: **https://www.linkedin.com/in/mehmet-eray-durmaz-95904a1a1/**
